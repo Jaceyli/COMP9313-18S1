@@ -1,0 +1,4 @@
+a	test_0.txt test_2.txt
+b	test_0.txt test_1.txt
+c	test_0.txt test_1.txt test_2.txt
+d	test_1.txt test_2.txt
